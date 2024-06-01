@@ -24,7 +24,7 @@ project-root/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:Circuit-Stream-LMS/movie-ratings-app.git
    cd project-root
    ```
 
