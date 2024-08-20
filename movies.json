@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Movie Title 1",
+        "thumbnail": "/placeholder.jpg",
+        "rating": 4,
+        "description": "Description for Movie Title 1"
+    },
+    {
+        "id": 2,
+        "title": "Movie Title 2",
+        "thumbnail": "/placeholder.jpg",
+        "rating": 5,
+        "description": "Description for Movie Title 2"
+    },
+    {
+        "id": 3,
+        "title": "Movie Title 3",
+        "thumbnail": "/placeholder.jpg",
+        "rating": 3,
+        "description": "Description for Movie Title 3"
+    }
+]

@@ -28,9 +28,9 @@
                 </div>
                 <div class="col-md-4">
                     <h3>Reviews</h3>
-                    <% if (reviews.length > 0) { %>
+                    <% if (movie.reviews.length > 0) { %>
                         <ul class="list-group">
-                            <% reviews.forEach(function(review) { %>
+                            <% movie.reviews.forEach(function(review) { %>
                                 <li class="list-group-item">
                                     <strong><%= review.reviewer %></strong>: <%= review.comment %> 
                                     <br>Rating: <%= "★".repeat(review.rating) %><%= "☆".repeat(5 - review.rating) %>
